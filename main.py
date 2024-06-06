@@ -5,7 +5,7 @@ import shutil
 import json
 import threading
 import time
-from PIL import Image, ImageTk
+#from PIL import Image, ImageTk
 
 class LabelEntryGenerator:
 	def __init__(self):
